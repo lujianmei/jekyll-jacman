@@ -31,7 +31,7 @@ paginate: 20
 title : JHipster中文网
 tagline: 一个致力于Jhipster中文传播，技术解决方案整理整合的网站。
 assets: /assets
-url:
+url: http://www.jhipstercn.com
 baseurl: /
 
 #### Language
@@ -40,6 +40,8 @@ language: zh-CN    ## blog site languages: en, zh-CN, zh-TW, de
 #### Menu
 menu:
   Home: /
+  Book: https://book.jhipstercn.com
+  JHipster Online: https://start.jhipster.tech/
   Archives: /archives
   About: /about
 ## you can create `tags` and `categories` folders (I had created them already).
