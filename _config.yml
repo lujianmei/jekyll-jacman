@@ -28,11 +28,11 @@ defaults:
 paginate: 20
 
 #### Site
-title : Jekyll Jacman
-tagline: A fresh looking and responsive theme for Jekyll
+title : JHipster中文网
+tagline: 一个致力于Jhipster中文传播，技术解决方案整理整合的网站。
 assets: /assets
 url:
-baseurl: /jekyll-jacman
+baseurl: /
 
 #### Language
 language: zh-CN    ## blog site languages: en, zh-CN, zh-TW, de
