@@ -21,3 +21,4 @@ Jhipster为快速开发Spring微服务框架的开发脚手架，用官方的解
   * 然后进入文件夹： cd myapplication
   * 输入命令，启动Jhipster，根据提示一步一步操作即可：jhipster
 
+
