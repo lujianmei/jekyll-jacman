@@ -1,6 +1,6 @@
 # Jhipster中文学习网站
 
-**中文 | [English](/README_en.md)**
+**中文 | [English](https://github.com/jhipster/generator-jhipster)**
 
 Jhipster为快速开发Spring微服务框架的开发脚手架，用官方的解释说明是：Jhipster是一个用于快速生成、开发、部署基于Springboot + Angular/React的Web应用的微服务框架开发工具。当我第一次使用的时候，通过几条命令就可以快速生成一个可运行的工程，并快速上手进行修改，即可满足我的业务开发需求，实际为开发节省了大量的配置时间。
 
